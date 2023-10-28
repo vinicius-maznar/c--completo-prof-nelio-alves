@@ -10,4 +10,4 @@
 
 1. [Introdução ao C#](https://github.com/vinicius-maznar/c-sharp-completo-prof-nelio-alves/blob/main/01-introducao-ao-c-sharp.md)
 2. [Introdução ao .NET](https://github.com/vinicius-maznar/c-sharp-completo-prof-nelio-alves/blob/main/02-introducao-ao-dot-net.md)
-3. [Base Class Library](https://github.com/vinicius-maznar/c-sharp-completo-prof-nelio-alves/blob/main/03-o-que-e-base-class-library-bcl.md)
+3. [O que é Base Class Library?](https://github.com/vinicius-maznar/c-sharp-completo-prof-nelio-alves/blob/main/03-o-que-e-base-class-library-bcl.md)
